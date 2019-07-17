@@ -13,7 +13,7 @@ It is a NetShoes clone application developed using React and Redux
 - [Axios](https://github.com/axios/axios)
 - [Immer](https://github.com/immerjs/immer)
 - [Polished](https://polished.js.org/)
-- [react-tostify](https://fkhadra.github.io/react-toastify/)
+- [react-toastify](https://fkhadra.github.io/react-toastify/)
 - [json-server](https://github.com/typicode/json-server)
 - [Reactotron](https://infinite.red/reactotron)
 - [VSCode](https://code.visualstudio.com/)
