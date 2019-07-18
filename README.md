@@ -1,6 +1,6 @@
 # Rocketshoes
 
-It is a NetShoes clone application developed using React and Redux
+It is a clone of an e-commerce application developed using React and Redux
 
 ![Rocketshoes](rocketshoes.gif)
 
