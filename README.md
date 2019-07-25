@@ -26,7 +26,7 @@ These instructions will get you a copy of the project up and running on your loc
 
     # Clone this repository
 
-    $ git clone https://github.com/saaddalida/rocketshoes-react
+    $ git clone https://github.com/saaddalida/rocketshoes-react.git
 
     # Go into the repository
 
@@ -35,8 +35,12 @@ These instructions will get you a copy of the project up and running on your loc
     # Install dependencies
 
     $ yarn install
+    
+    # Run the server
+    
+    $ json-server server.json -p 3333
 
-    # Run the app
+    # Run the app 
 
     $ yarn start
 
