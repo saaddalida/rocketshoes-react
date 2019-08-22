@@ -46,7 +46,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Authors
 
-- **Dalida Saad** - [Twitter](https://twitter.com/dalida_saad)
+- **Dalida Saad** - :wave: [Get in touch!](https://www.linkedin.com/in/dalida-saad/)
 
 ## License
 
